@@ -10,7 +10,7 @@ def dijkstra(s,n,edge):
   n : int
       グラフの要素数
   eage:list
-      グラグ
+      グラフ
  
   Returns
   -------
